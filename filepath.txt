@@ -1,0 +1,4 @@
+Paths here lol (Emulator load directory, Emulator.exe path, Rom path)
+"Game MOD Directory (Right click game --> Mod Data Directory)"
+"Emulator.exe Path"
+"ROM Path"
